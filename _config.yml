@@ -2,8 +2,8 @@
 # Site
 
 title: Treat Template
-url: "https://adamatan.github.io/recipe-template-rtl/"
-baseurl: https://adamatan.github.io/recipe-template-rtl/
+url: https://adamatan.github.io/recipe-template-rtl
+baseurl: https://adamatan.github.io/recipe-template-rtl
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
