@@ -1,10 +1,10 @@
 ---
 date: 2017-01-07
-title: Chocolate Cupcakes
+title: מופלטה!
 categories:
   - Cupcakes
   - Cakes
-featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
+featured_image: /images/mufleta-small.webp
 recipe:
   servings: 12 cupcakes
   prep: 5 minutes
@@ -12,8 +12,8 @@ recipe:
   ingredients_markdown: |-
     **Cupcakes**
 
-    * 2 cups flour
-    * 1/2 cup cocoa powder
+    * קמח
+    * שמן
     * 1 tablespoon baking powder
     * 1 tsp. salt
     * 1/2 tsp. baking soda

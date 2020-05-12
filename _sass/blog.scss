@@ -59,7 +59,7 @@
 				counter-increment: step-counter;
 				list-style-type: none;
 				position: relative;
-				margin-left: 34px;
+				margin-right: 34px;
 
 				&:before {
 					content: counter(step-counter);
@@ -69,7 +69,7 @@
 					/* padding: 1px 7px; */
 					font-size: .7em;
 					position: absolute;
-					left: -34px;
+					right: -34px;
 					top: -2px;
 					width: 25px;
 					text-align: center;
